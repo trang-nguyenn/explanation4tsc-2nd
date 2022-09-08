@@ -1,9 +1,0 @@
-dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
-GunPoint,global_mean,lime_rocket,rocket,0.5186666666666667
-GunPoint,local_mean,lime_rocket,rocket,0.7793333333333333
-GunPoint,global_mean,lime_rocket,resnet,0.559
-GunPoint,local_mean,lime_rocket,resnet,0.749
-GunPoint,global_mean,lime_rocket,knn,0.6990000000000001
-GunPoint,local_mean,lime_rocket,knn,0.7136666666666667
-GunPoint,global_mean,lime_rocket,MrSEQLClassifier,0.5836666666666668
-GunPoint,local_mean,lime_rocket,MrSEQLClassifier,0.7816666666666667

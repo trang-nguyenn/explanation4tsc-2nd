@@ -1,9 +1,0 @@
-dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
-MoteStrain,global_mean,lime_rocket,rocket,0.5023162939297126
-MoteStrain,local_mean,lime_rocket,rocket,0.6698083067092651
-MoteStrain,global_mean,lime_rocket,resnet,0.5737619808306709
-MoteStrain,local_mean,lime_rocket,resnet,0.5846246006389777
-MoteStrain,global_mean,lime_rocket,knn,0.6342252396166135
-MoteStrain,local_mean,lime_rocket,knn,0.77879392971246
-MoteStrain,global_mean,lime_rocket,MrSEQLClassifier,0.6264376996805111
-MoteStrain,local_mean,lime_rocket,MrSEQLClassifier,0.7130191693290735
