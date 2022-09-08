@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+Haptics,global_mean,lime_rocket,rocket,0.22353896103896104
+Haptics,local_mean,lime_rocket,rocket,0.3738636363636364
+Haptics,global_mean,lime_rocket,resnet,0.2709415584415584
+Haptics,local_mean,lime_rocket,resnet,0.3131493506493507
+Haptics,global_mean,lime_rocket,knn,0.28165584415584416
+Haptics,local_mean,lime_rocket,knn,0.3074675324675324
+Haptics,global_mean,lime_rocket,MrSEQLClassifier,0.238474025974026
+Haptics,local_mean,lime_rocket,MrSEQLClassifier,0.32905844155844155

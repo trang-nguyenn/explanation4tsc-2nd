@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+GunPointMaleVersusFemale,global_mean,lime_rocket,rocket,0.5177215189873418
+GunPointMaleVersusFemale,local_mean,lime_rocket,rocket,0.5825949367088608
+GunPointMaleVersusFemale,global_mean,lime_rocket,resnet,0.6993670886075951
+GunPointMaleVersusFemale,local_mean,lime_rocket,resnet,0.7126582278481014
+GunPointMaleVersusFemale,global_mean,lime_rocket,knn,0.6515822784810128
+GunPointMaleVersusFemale,local_mean,lime_rocket,knn,0.6598101265822787
+GunPointMaleVersusFemale,global_mean,lime_rocket,MrSEQLClassifier,0.5658227848101267
+GunPointMaleVersusFemale,local_mean,lime_rocket,MrSEQLClassifier,0.5753164556962026

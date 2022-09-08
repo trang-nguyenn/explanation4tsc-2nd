@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+ItalyPowerDemand,global_mean,lime_rocket,rocket,0.7047133138969874
+ItalyPowerDemand,local_mean,lime_rocket,rocket,0.8092322643343052
+ItalyPowerDemand,global_mean,lime_rocket,resnet,0.6829931972789115
+ItalyPowerDemand,local_mean,lime_rocket,resnet,0.7655976676384839
+ItalyPowerDemand,global_mean,lime_rocket,knn,0.7233722060252673
+ItalyPowerDemand,local_mean,lime_rocket,knn,0.7888726919339165
+ItalyPowerDemand,global_mean,lime_rocket,MrSEQLClassifier,0.55466472303207
+ItalyPowerDemand,local_mean,lime_rocket,MrSEQLClassifier,0.7263848396501458

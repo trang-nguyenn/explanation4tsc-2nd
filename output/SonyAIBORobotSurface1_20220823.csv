@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+SonyAIBORobotSurface1,global_mean,lime_rocket,rocket,0.6287021630615641
+SonyAIBORobotSurface1,local_mean,lime_rocket,rocket,0.7383527454242927
+SonyAIBORobotSurface1,global_mean,lime_rocket,resnet,0.6608985024958403
+SonyAIBORobotSurface1,local_mean,lime_rocket,resnet,0.6797004991680533
+SonyAIBORobotSurface1,global_mean,lime_rocket,knn,0.5286189683860233
+SonyAIBORobotSurface1,local_mean,lime_rocket,knn,0.5309484193011648
+SonyAIBORobotSurface1,global_mean,lime_rocket,MrSEQLClassifier,0.5245424292845258
+SonyAIBORobotSurface1,local_mean,lime_rocket,MrSEQLClassifier,0.5518302828618968

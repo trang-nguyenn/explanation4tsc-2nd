@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+GunPointOldVersusYoung,global_mean,lime_rocket,rocket,0.44587301587301587
+GunPointOldVersusYoung,local_mean,lime_rocket,rocket,0.4741269841269841
+GunPointOldVersusYoung,global_mean,lime_rocket,resnet,0.6812698412698414
+GunPointOldVersusYoung,local_mean,lime_rocket,resnet,0.7257142857142858
+GunPointOldVersusYoung,global_mean,lime_rocket,knn,0.9017460317460319
+GunPointOldVersusYoung,local_mean,lime_rocket,knn,0.8638095238095238
+GunPointOldVersusYoung,global_mean,lime_rocket,MrSEQLClassifier,0.574920634920635
+GunPointOldVersusYoung,local_mean,lime_rocket,MrSEQLClassifier,0.5704761904761906

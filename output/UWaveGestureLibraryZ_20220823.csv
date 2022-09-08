@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+UWaveGestureLibraryZ,global_mean,lime_rocket,rocket,0.26894193188163035
+UWaveGestureLibraryZ,local_mean,lime_rocket,rocket,0.31203238414293694
+UWaveGestureLibraryZ,global_mean,lime_rocket,resnet,0.1713428252372976
+UWaveGestureLibraryZ,local_mean,lime_rocket,resnet,0.21616415410385256
+UWaveGestureLibraryZ,global_mean,lime_rocket,knn,0.3244556113902847
+UWaveGestureLibraryZ,local_mean,lime_rocket,knn,0.3455332216638749
+UWaveGestureLibraryZ,global_mean,lime_rocket,MrSEQLClassifier,0.20554159687325518
+UWaveGestureLibraryZ,local_mean,lime_rocket,MrSEQLClassifier,0.24278336125069794

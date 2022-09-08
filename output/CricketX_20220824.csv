@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+CricketX,global_mean,lime_rocket,rocket,0.3467948717948718
+CricketX,local_mean,lime_rocket,rocket,0.3535897435897436
+CricketX,global_mean,lime_rocket,resnet,0.22423076923076926
+CricketX,local_mean,lime_rocket,resnet,0.22525641025641027
+CricketX,global_mean,lime_rocket,knn,0.2988461538461538
+CricketX,local_mean,lime_rocket,knn,0.3112820512820513
+CricketX,global_mean,lime_rocket,MrSEQLClassifier,0.31205128205128213
+CricketX,local_mean,lime_rocket,MrSEQLClassifier,0.29282051282051286

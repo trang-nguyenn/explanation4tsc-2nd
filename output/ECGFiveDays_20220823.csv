@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+ECGFiveDays,global_mean,lime_rocket,rocket,0.49291521486643436
+ECGFiveDays,local_mean,lime_rocket,rocket,0.6256678281068525
+ECGFiveDays,global_mean,lime_rocket,resnet,0.4968060394889664
+ECGFiveDays,local_mean,lime_rocket,resnet,0.5619628339140534
+ECGFiveDays,global_mean,lime_rocket,knn,0.5407665505226481
+ECGFiveDays,local_mean,lime_rocket,knn,0.5584204413472706
+ECGFiveDays,global_mean,lime_rocket,MrSEQLClassifier,0.5279907084785134
+ECGFiveDays,local_mean,lime_rocket,MrSEQLClassifier,0.6139372822299651

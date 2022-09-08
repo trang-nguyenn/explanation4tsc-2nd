@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+WormsTwoClass,global_mean,lime_rocket,rocket,0.4987012987012987
+WormsTwoClass,local_mean,lime_rocket,rocket,0.5324675324675324
+WormsTwoClass,global_mean,lime_rocket,resnet,0.5792207792207792
+WormsTwoClass,local_mean,lime_rocket,resnet,0.5883116883116883
+WormsTwoClass,global_mean,lime_rocket,knn,0.5909090909090909
+WormsTwoClass,local_mean,lime_rocket,knn,0.5948051948051947
+WormsTwoClass,global_mean,lime_rocket,MrSEQLClassifier,0.6532467532467534
+WormsTwoClass,local_mean,lime_rocket,MrSEQLClassifier,0.5915584415584416

@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+Wafer,global_mean,lime_rocket,rocket,0.7356262167423752
+Wafer,local_mean,lime_rocket,rocket,0.9019305645684621
+Wafer,global_mean,lime_rocket,resnet,0.8412070084360804
+Wafer,local_mean,lime_rocket,resnet,0.8921155094094744
+Wafer,global_mean,lime_rocket,knn,0.8953844905905256
+Wafer,local_mean,lime_rocket,knn,0.9326654769630109
+Wafer,global_mean,lime_rocket,MrSEQLClassifier,0.9139763140817652
+Wafer,local_mean,lime_rocket,MrSEQLClassifier,0.9145279039584686

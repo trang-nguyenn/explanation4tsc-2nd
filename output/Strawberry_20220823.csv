@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+Strawberry,global_mean,lime_rocket,rocket,0.66
+Strawberry,local_mean,lime_rocket,rocket,0.7556756756756756
+Strawberry,global_mean,lime_rocket,resnet,0.45256756756756755
+Strawberry,local_mean,lime_rocket,resnet,0.6668918918918919
+Strawberry,global_mean,lime_rocket,knn,0.6375675675675676
+Strawberry,local_mean,lime_rocket,knn,0.681081081081081
+Strawberry,global_mean,lime_rocket,MrSEQLClassifier,0.6594594594594595
+Strawberry,local_mean,lime_rocket,MrSEQLClassifier,0.7743243243243243
